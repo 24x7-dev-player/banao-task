@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/banao task/train/images
+val: /content/drive/MyDrive/banao task/valid/images
+test: /content/drive/MyDrive/banao task/test/images
+
+nc: 11
+names: ['breadcrumb', 'button', 'checkbox', 'dropbox', 'image', 'input field', 'link', 'logo', 'modal', 'navigation bar', 'text']
